@@ -14,18 +14,6 @@
 - 🔧 Passionate about **embedded systems**, **IoT**, **PCB design**, **desktop software**, and **PLC programming**  
 - 💡 Building **smart devices**, **automation systems**, and **industrial controllers**
 
----
-
-## 🚀 Featured Projects
-
-| Project                  | Tech Highlights |
-|--------------------------|-----------------|
-| **Smart Weather Station** | ESP32 + sensors + MQTT + Python GUI |
-| **Custom PCB Relay Module** | KiCad design + ESP32-based control |
-| **Gesture-Controlled Robot** | ESP32 + servos + sensor fusion (Ongoing) |
-| **PLC-Based Conveyor System** | Siemens LOGO! + OpenPLC + Ladder Logic |
-
----
 
 ## 🛠️ Skills & Tools
 
