@@ -10,7 +10,7 @@
 ---
 
 ## 👨‍🎓 About Me
-- 🎯 **ECE student @ Kushtia PI**, Bangladesh  
+- 🎯 **ENT student @ Kushtia PI**, Bangladesh  
 - 🔧 Passionate about **embedded systems**, **IoT**, **PCB design**, **desktop software**, and **PLC programming**  
 - 💡 Building **smart devices**, **automation systems**, and **industrial controllers**
 
