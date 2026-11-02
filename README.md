@@ -24,12 +24,12 @@
 - **Version Control**: Git, GitHub
 
 ### 💻 Programming Languages
-- **Embedded & Systems**: C, C++, Rust
+- **Embedded & Systems**: C, C++
 - **Scripting & Automation**: Python, JavaScript (Node.js, Deno)
-- **Web & GUI Development**: Python, HTML, CSS, JavaScript, React.js, Electron.js
+- **Web & GUI Development**: Python, QML, HTML, CSS, JavaScript, React.js, Electron.js
 
 ### 🖥️ Desktop Software Development
-- **Frameworks & Libraries**: PySide, PyQt, Tkinter, Electron.js
+- **Frameworks & Libraries**: PySide, PyQt, Tkinter, Electron.js, Flutter
 - **Database Management**: SQLite, PostgreSQL
 - **UI/UX Design**: Figma, Illustrator
 
